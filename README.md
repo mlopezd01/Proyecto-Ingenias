@@ -1,4 +1,4 @@
-# Proyecto-Ingenias
+## Proyecto-Ingenias
 Análisis exploratorio de datos sobre películas usando Python. Se visualizan patrones según género, duración y calificación, aplicando librerías como Pandas, Matplotlib y Seaborn para obtener insights relevantes de la industria del cine.
 
 El dataset contiene información sobre títulos disponibles en Netflix. A continuación, una breve descripción de las columnas principales:
@@ -15,3 +15,5 @@ El dataset contiene información sobre títulos disponibles en Netflix. A contin
 * **duration**: Duración del contenido (en minutos o temporadas).
 * **listed\_in**: Categorías o géneros en los que se clasifica.
 * **description**: Descripción breve del título.
+
+#Objetivo general: Analizar el catálogo de Netflix para entender patrones de distribución de contenido por tipo, género, país, y evolución en el tiempo, con el fin de obtener insights que puedan apoyar decisiones editoriales o de marketing.
