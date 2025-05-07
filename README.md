@@ -16,4 +16,5 @@ El dataset contiene información sobre títulos disponibles en Netflix. A contin
 * **listed\_in**: Categorías o géneros en los que se clasifica.
 * **description**: Descripción breve del título.
 
-#Objetivo general: Analizar el catálogo de Netflix para entender patrones de distribución de contenido por tipo, género, país, y evolución en el tiempo, con el fin de obtener insights que puedan apoyar decisiones editoriales o de marketing.
+# Objetivo general 
+Analizar el catálogo de Netflix para entender patrones de distribución de contenido por tipo, género, país, y evolución en el tiempo, con el fin de obtener insights que puedan apoyar decisiones editoriales o de marketing.
